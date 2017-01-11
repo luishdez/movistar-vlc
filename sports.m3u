@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1, [045] Movistar Futbol HD
+rtp://@239.0.6.14:8208
+#EXTINF:-1, [046] Movistar Partidazo HD
+rtp://@239.0.5.84:8208
+#EXTINF:-1,[047] beIN La Liga HD
+rtp://@239.0.5.106:8208
+#EXTINF:-1,[048] beIN La Liga 1 HD
+rtp://@239.0.5.179:8208
+#EXTINF:-1,[049] beIN La Liga 2 HD
+rtp://@239.0.5.180:8208
+#EXTINF:-1,[181] beIN La Liga 3 HD
+rtp://@239.0.5.181:8208
+#EXTINF:-1,[050] beIN SPORTS HD
+rtp://@239.0.9.80:8208
+#EXTINF:-1,[051] beIN MAX 1 HD
+rtp://@239.0.9.81:8208
+#EXTINF:-1,[053] Real Madrid TV HD
+rtp://@239.0.0.179:8208
+#EXTINF:-1,[060] Eurosport 1 HD
+rtp://@239.0.9.135:8208
+#EXTINF:-1,[060] Eurosport 1 HD Nuevos paquetes
+rtp://@239.0.9.144:8208
+#EXTINF:-1,[061] Eurosport 2 HD
+rtp://@239.0.5.105:8208
+#EXTINF:-1,[062] GOL HD
+rtp://@239.0.5.189:8208
+#EXTINF:-1,[063] Teledeporte HD
+rtp://@239.0.0.188:8208
